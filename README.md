@@ -22,7 +22,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/xmark.npx#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/xmark.npx#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages and Tools from [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md):
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -58,3 +58,10 @@
 [twitter]: https://twitter.com/mark_reality
 [youtube]: https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ
 [instagram]: https://instagram.com/xmark.npx
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://codeSTACKr.com
+[course]: http://vsCodeHero.com
