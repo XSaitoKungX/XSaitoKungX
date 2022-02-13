@@ -19,8 +19,8 @@
 [![website](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/mark_reality#gh-light-mode-only)
 [![website](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/mark_reality#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1000px-Instagram_logo_2016.svg.png)](https://instagram.com/xmark.npx#gh-light-mode-only)
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1000px-Instagram_logo_2016.svg.png)](https://instagram.com/xmark.npx#gh-dark-mode-only)
+[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAb6pSBnUsRPHtsLVgQ6ffsMrx2svclbETvOF7ON9YQGxM-qCqNlWHsDchvEShuoP_jl8&usqp=CAU)](https://instagram.com/xmark.npx#gh-light-mode-only)
+[![website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAb6pSBnUsRPHtsLVgQ6ffsMrx2svclbETvOF7ON9YQGxM-qCqNlWHsDchvEShuoP_jl8&usqp=CAU)](https://instagram.com/xmark.npx#gh-dark-mode-only)
 
 ### Languages and Tools from [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md):
 
