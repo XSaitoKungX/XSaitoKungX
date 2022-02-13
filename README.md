@@ -1,10 +1,10 @@
-# Hi there, I'm XSaitoKungX - Follow me on [Markung][youtube] 👋 
+# Hi there, I'm Mark - aka [XSaitoKungX][youtube] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsBXuIAxiuYar5Y36E_HxiQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/mark_reality?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mark_reality)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mark_reality?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmark_reality&screen_name=mark_reality)
 
 
-## About Me!!
+## Some Informations about Me!!
 
 - 🤗 I am currently learning everything that has to do with programming
 - 🤝 I’m looking to collaborate with other content creators
@@ -54,11 +54,7 @@
 
 </details>
 
-[twitter]: https://twitter.com/mark_reality
-[youtube]: https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ
-[instagram]: https://instagram.com/xmark.npx
 
-<!---
-XSaitoKungX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[twitter]: https://twitter.com/mark_reality
+[youtube]: https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ
+[instagram]: https://instagram.com/xmark.npx
