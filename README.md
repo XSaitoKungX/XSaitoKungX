@@ -1,6 +1,6 @@
-# Hi there, I'm XSaitoKungX - Follow me on [https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ][YouTube] 👋 
+# Hi there, I'm XSaitoKungX - Follow me on [YouTube][https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsBXuIAxiuYar5Y36E_HxiQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsBXuIAxiuYar5Y36E_HxiQ?logo=youtube&logoColor=red&style=for-the-badge)][https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ]
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_reality?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=mark_reality)
 
 
