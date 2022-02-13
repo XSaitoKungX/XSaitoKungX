@@ -13,14 +13,14 @@
 
 ### Connect with me:
 
-[![website](https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
-[![website](https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png)](https://twitter.com/mark_reality#gh-light-mode-only)
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png)](https://twitter.com/mark_reality#gh-dark-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/mark_reality#gh-light-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/mark_reality#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/c7/62/9cc762a8-f894-5a89-dc8b-a7c9db3659f3/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)](https://instagram.com/xmark.npx#gh-light-mode-only)
-[![website](https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/c7/62/9cc762a8-f894-5a89-dc8b-a7c9db3659f3/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)](https://instagram.com/xmark.npx#gh-dark-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1000px-Instagram_logo_2016.svg.png)](https://instagram.com/xmark.npx#gh-light-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1000px-Instagram_logo_2016.svg.png)](https://instagram.com/xmark.npx#gh-dark-mode-only)
 
 ### Languages and Tools from [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md):
 
