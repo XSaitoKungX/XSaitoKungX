@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
+[![website](https://orioni.co/nmedia/png/youtube-6045.png)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
+[![website](https://orioni.co/nmedia/png/youtube-6045.png)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/mark_reality#gh-light-mode-only)
 [![website](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/mark_reality#gh-dark-mode-only)
