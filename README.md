@@ -1,6 +1,6 @@
-# Hi there, I'm Mark - aka [XSaitoKungX][youtube] 👋 
+# Hi there, I'm Mark - aka [XSaitoKungX][youtubeme] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsBXuIAxiuYar5Y36E_HxiQ?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsBXuIAxiuYar5Y36E_HxiQ?logo=youtube&logoColor=red&style=for-the-badge)][youtubeme]
 [![Twitter Follow](https://img.shields.io/twitter/follow/mark_reality?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmark_reality&screen_name=mark_reality)
 
 
@@ -55,9 +55,9 @@
 </details>
 
 
-[twitter]: https://twitter.com/mark_reality
-[youtube]: https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ
-[instagram]: https://instagram.com/xmark.npx
+[twitterme]: https://twitter.com/mark_reality
+[youtubeme]: https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ
+[instagramme]: https://instagram.com/xmark.npx
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
@@ -65,3 +65,6 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
