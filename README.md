@@ -13,14 +13,14 @@
 
 ### Connect with me:
 
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/240px-YouTube_social_white_square_%282017%29.svg.png)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
-[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/240px-YouTube_social_white_square_%282017%29.svg.png)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/mark_reality#gh-light-mode-only)
-[![website](https://upload.wikimedia.org/wikipedia/de/9/9f/Twitter_bird_logo_2012.svg)](https://twitter.com/mark_reality#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/mark_reality#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/mark_reality#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-11.png)](https://instagram.com/xmark.npx#gh-light-mode-only)
-[![website](https://cdns.iconmonstr.com/wp-content/assets/preview/2016/240/iconmonstr-instagram-11.png)](https://instagram.com/xmark.npx#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/xmark.npx#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/xmark.npx#gh-dark-mode-only)
 
 ### Languages and Tools from [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md):
 
