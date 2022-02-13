@@ -13,14 +13,14 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
+[![website](https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
+[![website](https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/mark_reality#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/mark_reality#gh-dark-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png)](https://twitter.com/mark_reality#gh-light-mode-only)
+[![website](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png)](https://twitter.com/mark_reality#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/xmark.npx#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/xmark.npx#gh-dark-mode-only)
+[![website](https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/c7/62/9cc762a8-f894-5a89-dc8b-a7c9db3659f3/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)](https://instagram.com/xmark.npx#gh-light-mode-only)
+[![website](https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/9c/c7/62/9cc762a8-f894-5a89-dc8b-a7c9db3659f3/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)](https://instagram.com/xmark.npx#gh-dark-mode-only)
 
 ### Languages and Tools from [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md):
 
@@ -39,8 +39,8 @@
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="https://www.softwarecraftsperson.com/images/windows-terminal/logo.jpg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="https://www.softwarecraftsperson.com/images/windows-terminal/logo.jpg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 <br />
 <br />
