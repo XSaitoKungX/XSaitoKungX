@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
-[![website](./img/youtube-light.svg)](https://youtube.com/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/mark_reality#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mark_reality#gh-dark-mode-only)
