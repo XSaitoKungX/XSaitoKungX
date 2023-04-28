@@ -1,70 +1,66 @@
-# Hi there, I'm Mark - aka [XSaitoKungX][youtubeme] 👋 
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Mark - aka XSaitoKungX <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/XSaitoKungX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full%20stack%20developer&center=true&width=500&height=50"></a>
+</p>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsBXuIAxiuYar5Y36E_HxiQ?logo=youtube&logoColor=red&style=for-the-badge)][youtubeme]
-[![Twitter Follow](https://img.shields.io/twitter/follow/mark_reality?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmark_reality&screen_name=mark_reality)
+<p align="center"> 
+	<img src="https://img.shields.io/github/stars/XSaitoKungX?style=for-the-badge" alt="xsaitokungx" />
+    <img src="https://img.shields.io/github/followers/XSaitoKungX?style=for-the-badge" alt="xsaitokungx" />
+</p>
 
-
-## Some Informations about Me!!
-
+# 🙋‍♂️ ┆About me
 - 🤗 I am currently learning everything that has to do with programming
 - 🤝 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about JavaScript and HTML
 - ⚡ Fun fact: I love programming and I love listening to music
+- 🥅 2023 Goals: Learn more about JavaScript, HTML, CSS, PHP and C++
+- 🌱 Learning new things every day
 
-### Connect with me:
+<br>
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ#gh-light-mode-only)
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/mark_reality#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/mark_reality#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/xmark.npx#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/xmark.npx#gh-dark-mode-only)
-
-### Languages and Tools from [codeSTACKr](https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md):
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Deno_2021.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="XSaitoKungX's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XSaitoKungX&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+# 🔥┆Github Stats
+![profile]
+![languages]
 
 
-[twitterme]: https://twitter.com/mark_reality
-[youtubeme]: https://www.youtube.com/channel/UCsBXuIAxiuYar5Y36E_HxiQ
-[instagramme]: https://instagram.com/xmark.npx
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[profile]: https://github-readme-stats.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true
+[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=XSaitoKungX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact
+
+# 📱┆My socials
+<p align="center">
+	<a href="https://github.com/XSaitoKungX"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    &emsp;
+	<a href="https://www.facebook.com/markung.np"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+    &emsp;
+	<a href="https://www.instagram.com/markung.np/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    &emsp;
+	<a href="https://twitter.com/mark_reality"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    &emsp;
+	<a href="https://www.twitch.tv/xsaitokungx"><img src="https://img.shields.io/badge/twitch-%232563eb.svg?style=for-the-badge" alt="Twitch"/></a>
+    &emsp;
+  <a href=""><img src="https://img.shields.io/badge/website-%232563eb.svg?style=for-the-badge" alt="Snap Chat"/></a>
+</p>
+
+# 💻┆My Programming Languages
+<p align="center"> 
+   <img alt="HTML" src="https://img.shields.io/badge/html-%23e44d25.svg?style=for-the-badge&logo=html5&logoColor=white">
+  &emsp;
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-%23264de4.svg?style=for-the-badge&logo=css3&logoColor=white">
+  &emsp;
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  &emsp;
+    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777bb3.svg?style=for-the-badge&logo=php&logoColor=white">
+</p>
+
+# ✨┆Programming Frameworks
+<p align="center"> 
+   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white">
+  &emsp;
+  <img alt="React" src="https://img.shields.io/badge/-React.js-61dafb?style=for-the-badge&logo=react&logoColor=black">
+  &emsp;
+   <img alt="React" src="https://img.shields.io/badge/-Tailwind.css-07b6d5?style=for-the-badge&logo=tailwindcss&logoColor=black">
+  &emsp;
+  <img alt="React" src="https://img.shields.io/badge/-Vue.js-41b883?style=for-the-badge&logo=vue.js&logoColor=black">
+</p>
+
+-----
+Last Edited on: 28/04/2023
