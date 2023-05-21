@@ -23,7 +23,6 @@
 
 
 [profile]: https://github-readme-stats.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true
-[![XSaitoKungX's GitHub stats](https://github-readme-stats.vercel.app/api?username=XSaitoKungX)](https://github.com/XSaitoKungX/github-readme-stats)
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=XSaitoKungX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact
 
 # 📱┆My socials
