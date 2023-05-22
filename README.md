@@ -37,7 +37,7 @@
     &emsp;
 	<a href="https://www.twitch.tv/xsaitokungx"><img src="https://img.shields.io/badge/twitch-%232563eb.svg?style=for-the-badge" alt="Twitch"/></a>
     &emsp;
-  <a href="https://xsaitokungx.github.io/MyWebsite/"><img src="https://img.shields.io/badge/website-%232563eb.svg?style=for-the-badge" alt="Snap Chat"/></a>
+  <a href="https://xsaitokungx.github.io/Website-Template/"><img src="https://img.shields.io/badge/website-%232563eb.svg?style=for-the-badge" alt="Snap Chat"/></a>
 </p>
 
 # 💻┆My Programming Languages
