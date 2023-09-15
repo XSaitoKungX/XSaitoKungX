@@ -52,6 +52,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%23777bb3.svg?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
+[Test](https://img.shields.io/badge/Python%20-%23777bb3.svg?style=for-the-badge&logo=python&logoColor=white)
+
 # ✨┆Programming Frameworks
 <p align="center"> 
    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23ff2d20.svg?style=for-the-badge&logo=laravel&logoColor=white">
