@@ -14,7 +14,6 @@
 - ⚡ Fun fact: I love programming and I love listening to music
 - 🥅 2023 Goals: Learn more about JavaScript, HTML, CSS, PHP and C++
 - 🌱 Learning new things every day
-
 <br>
 
 # 🔥┆Github Stats
@@ -49,6 +48,8 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
   &emsp;
     <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777bb3.svg?style=for-the-badge&logo=php&logoColor=white">
+  &emsp;
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%23777bb3.svg?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 # ✨┆Programming Frameworks
