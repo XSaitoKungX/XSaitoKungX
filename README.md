@@ -18,11 +18,17 @@
 
 # 🔥┆Github Stats
 ![profile]
+<br>
 ![languages]
+<br>
 ![github-streaks]
+<br>
 ![trophies]
+<br>
 ![commits-per-hour]
+<br>
 ![repository-stats]
+<br>
 ![summary-card]
 
 [profile]: https://github-readme-stats.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true
@@ -30,7 +36,7 @@
 [github-streaks]: https://github-readme-streak-stats.herokuapp.com/?user=XSaitoKungX&theme=github-dark-blue&hide_border=true
 [trophies]: https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=darkhub&margin-w=15&margin-h=15
 [commits-per-hour]: https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XSaitoKungX&theme=github_dark
-[repository-stats]: https://github-readme-stats.vercel.app/api/pin/?username=XSaitoKungX&repo=Evi-ModMail&theme=github_dark
+[repository-stats]: https://github-readme-stats.vercel.app/api/pin/?username=XSaitoKungX&repo=XSaitoKungX&theme=github_dark
 [summary-card]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XSaitoKungX&theme=github_dark
 
 # 📱┆My socials
