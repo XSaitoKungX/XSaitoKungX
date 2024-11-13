@@ -19,10 +19,23 @@
 # 🔥┆Github Stats
 ![profile]
 ![languages]
-
+![github-streaks]
+![contributions-graph]
+![trophies]
+![commits-per-hour]
+![commit-breakdown]
+![repository-stats]
+![summary-card]
 
 [profile]: https://github-readme-stats.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=XSaitoKungX&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&layout=compact
+[github-streaks]: https://github-readme-streak-stats.herokuapp.com/?user=XSaitoKungX&theme=github-dark-blue&hide_border=true
+[contributions-graph]: https://activity-graph.herokuapp.com/graph?username=XSaitoKungX&theme=github
+[trophies]: https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=darkhub&margin-w=15&margin-h=15
+[commits-per-hour]: https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=XSaitoKungX&theme=github_dark
+[commit-breakdown]: https://github-profile-summary-cards.vercel.app/api/cards/commit-number?username=XSaitoKungX&theme=github_dark
+[repository-stats]: https://github-readme-stats.vercel.app/api/pin/?username=XSaitoKungX&repo=Evi-ModMail&theme=github_dark
+[summary-card]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XSaitoKungX&theme=github_dark
 
 # 📱┆My socials
 <p align="center">
