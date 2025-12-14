@@ -44,15 +44,11 @@
 <p align="center">
 	<a href="https://github.com/XSaitoKungX"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     &emsp;
-	<a href="https://www.facebook.com/markung.np"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-    &emsp;
 	<a href="https://www.instagram.com/markung.np/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    &emsp;
-	<a href="https://twitter.com/mark_reality"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
     &emsp;
 	<a href="https://www.twitch.tv/xsaitokungx"><img src="https://img.shields.io/badge/twitch-%232563eb.svg?style=for-the-badge" alt="Twitch"/></a>
     &emsp;
-  <a href="https://nexgen-nexus.net"><img src="https://img.shields.io/badge/website-%232563eb.svg?style=for-the-badge" alt="Snap Chat"/></a>
+  <a href="https://saito.novaplex.xyz"><img src="https://img.shields.io/badge/website-%232563eb.svg?style=for-the-badge" alt="Portfolio"/></a>
 </p>
 
 # 💻┆My Tech Stack
