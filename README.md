@@ -89,9 +89,12 @@ const mark = {
         A powerful, feature-rich Discord bot built with modern technologies. Includes moderation, music, economy, and much more!
       </p>
       <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase%20SQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
@@ -109,9 +112,16 @@ const mark = {
         My personal portfolio showcasing my projects, skills, and journey as a developer. Built with modern web technologies.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bun.lockb-000000?style=flat-square&logo=bun&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind%20Config-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/shadcn%2Fschema.json-18181b?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite%20Config-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Netlify%20Deploy-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/eslint.config.js-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
+        <img src="https://img.shields.io/badge/postcss.config.js-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/tsconfig.app.json-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
     </td>
   </tr>
