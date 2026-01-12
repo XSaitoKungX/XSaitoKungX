@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/848917797501141052">
-    <img src="https://lanyard.cnrad.dev/api/848917797501141052?theme=dark&borderRadius=20px&animated=true&idleMessage=Currently%20not%20doing%20anything...&cache_seconds=30" alt="Discord Status"/>
+    <img src="https://lanyard.cnrad.dev/api/848917797501141052" alt="Discord Presence"/>
   </a>
 </p>
 
@@ -165,19 +165,19 @@ const mark = {
   <a href="https://github.com/XSaitoKungX">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true&cache_seconds=21600" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/XSaitoKungX">
-    <img width="49%" src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&cache_seconds=21600" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=XSaitoKungX&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&cache_seconds=21600" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/XSaitoKungX?tab=repositories">
+  <a href="https://github.com/XSaitoKungX">
     <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XSaitoKungX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&cache_seconds=21600" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/XSaitoKungX">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7&cache_seconds=21600" alt="GitHub Trophies"/>
   </a>
 </p>
