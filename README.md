@@ -30,15 +30,13 @@
 
 <p align="center">
   <a href="https://discord.com/users/848917797501141052">
-    <img src="https://lanyard.cnrad.dev/api/848917797501141052?theme=dark&borderRadius=20px&animated=true&idleMessage=Currently%20not%20doing%20anything..." alt="Discord Status"/>
+    <img src="https://lanyard.cnrad.dev/api/848917797501141052?theme=dark&borderRadius=20px&animated=true&idleMessage=Currently%20not%20doing%20anything...&cache_seconds=30" alt="Discord Status"/>
   </a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 👨‍💻 ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<img align="right" width="300" style="margin-left: 20px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
@@ -165,29 +163,29 @@ const mark = {
 
 <p align="center">
   <a href="https://github.com/XSaitoKungX">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true&cache_seconds=21600" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/XSaitoKungX">
-    <img width="49%" src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&cache_seconds=21600" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/XSaitoKungX?tab=repositories">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XSaitoKungX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XSaitoKungX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&cache_seconds=21600" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/XSaitoKungX">
-    <img src="https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7&cache_seconds=21600" alt="GitHub Trophies"/>
   </a>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/XSaitoKungX">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSaitoKungX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSaitoKungX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&cache_seconds=21600" alt="Activity Graph"/>
   </a>
 </p>
 
