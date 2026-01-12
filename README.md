@@ -165,22 +165,22 @@ const mark = {
 
 <p align="center">
   <a href="https://github.com/XSaitoKungX">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/XSaitoKungX">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=XSaitoKungX&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/XSaitoKungX?tab=repositories">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSaitoKungX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XSaitoKungX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/XSaitoKungX">
-    <img src="https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -250,11 +250,13 @@ const mark = {
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎵 SPOTIFY -->
+<!-- 🎵 SPOTIFY (Optional - requires setup at https://github.com/kittinan/spotify-github-profile) -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xgcniqbid7yt4otq5q3gkm7iqi&cover_image=true&theme=novatorem&bar_color=a855f7&bar_color_cover=true" alt="Spotify"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xgcniqbid7yt4otq5q3gkm7iqi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true">
+  </a>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
