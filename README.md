@@ -166,7 +166,7 @@ const mark = {
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img width="49%" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=synthwave&hide_border=true&locale=de" alt="GitHub Streak"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=synthwave&hide_border=true&locale=de" alt="GitHub Streak"/>
   </a>
 </p>
 
@@ -177,8 +177,8 @@ const mark = {
 </p>
 
 <p align="center">
-  <a href="https://github-enchanter-list.vercel.app/list/trophies">
-    <img src="https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=flat&row=1&column=6&no-bg=true&no-frame=true" alt="XSaitoKungX trophies"/>
+  <a href="https://github-trophies.vercel.app">
+    <img src="https://github-trophies.vercel.app/?username=XSaitoKungX" alt="XSaitoKungX trophies"/>
   </a>
 </p>
 
