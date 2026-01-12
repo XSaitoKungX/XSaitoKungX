@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/848917797501141052">
-    <img src="https://lanyard.cnrad.dev/api/848917797501141052" alt="Discord Presence"/>
+    <img src="https://lanyard.cnrad.dev/api/848917797501141052?showDisplayName=true&theme=dark" alt="Discord Presence"/>
   </a>
 </p>
 
@@ -163,29 +163,29 @@ const mark = {
 
 <p align="center">
   <a href="https://github.com/XSaitoKungX">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true&cache_seconds=21600" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=XSaitoKungX&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&cache_seconds=21600" alt="GitHub Streak"/>
+    <img width="49%" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=synthwave&hide_border=true&locale=de" alt="GitHub Streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/XSaitoKungX">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XSaitoKungX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&cache_seconds=21600" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XSaitoKungX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7&cache_seconds=21600" alt="GitHub Trophies"/>
+  <a href="https://github-enchanter-list.vercel.app/list/trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=XSaitoKungX&theme=flat&row=1&column=6&no-bg=true&no-frame=true" alt="XSaitoKungX trophies"/>
   </a>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/XSaitoKungX">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSaitoKungX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&cache_seconds=21600" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSaitoKungX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph"/>
   </a>
 </p>
 
