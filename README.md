@@ -49,7 +49,7 @@ const mark = {
   
   currentFocus: [
     "🤖 Astra Bot - Discord Bot with 40+ servers",
-    "� Portfolio - saito.novaplex.xyz",
+    "🌐 Eziox - Your Personalized Bio Page",
     "📚 Learning new technologies daily"
   ],
   
@@ -98,10 +98,10 @@ const mark = {
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌐 Personal Portfolio</h3>
+      <h3 align="center">🌐 Bio Page</h3>
       <p align="center">
-        <a href="https://saito.novaplex.xyz" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-saito.novaplex.xyz-8b5cf6?style=for-the-badge"/>
+        <a href="https://eziox.link/saito" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-https://eziox.link/saito-8b5cf6?style=for-the-badge"/>
         </a>
       </p>
       <p align="center">
@@ -109,7 +109,7 @@ const mark = {
         <img src="https://img.shields.io/badge/Version-2.0-8b5cf6?style=flat-square"/>
       </p>
       <p align="center">
-        My personal portfolio showcasing my projects, skills, and journey as a developer. Built with modern web technologies.
+        Create your personalized bio page • Track analytics • Climb the leaderboard
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Bun.lockb-000000?style=flat-square&logo=bun&logoColor=white"/>
@@ -137,7 +137,7 @@ const mark = {
 <summary><b>🎨 Frontend</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
 </p>
 </details>
 
@@ -153,7 +153,7 @@ const mark = {
 <summary><b>🗄️ Database & Cloud</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql,firebase,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql,vercel,appwrite&theme=dark" />
 </p>
 </details>
 
@@ -161,7 +161,7 @@ const mark = {
 <summary><b>🔧 Tools & Others</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,linux,discord,bots&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,discord,bots&theme=dark" />
 </p>
 </details>
 
@@ -216,8 +216,8 @@ const mark = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <p align="center">
-  <a href="https://saito.novaplex.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-saito.novaplex.xyz-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://eziox.link/saito">
+    <img src="https://img.shields.io/badge/Connect-https://eziox.link/saito-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://astra-bot.app">
     <img src="https://img.shields.io/badge/Astra_Bot-astra--bot.app-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -228,26 +228,10 @@ const mark = {
   <a href="https://github.com/XSaitoKungX">
     <img src="https://img.shields.io/badge/GitHub-XSaitoKungX-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/markung.np/">
-    <img src="https://img.shields.io/badge/Instagram-markung.np-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="https://www.twitch.tv/xsaitokungx">
     <img src="https://img.shields.io/badge/Twitch-xsaitokungx-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
 </p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- � CURRENT FOCUS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Current Focus
-
-```text
-🤖 Astra Bot        ████████████████████░░░░   80% - Expanding features
-🌐 Portfolio        ██████████████████████░░   90% - Polishing UI/UX
-📚 Learning         ████████████████░░░░░░░░   65% - Always improving
-🎯 Open Source      ████████████░░░░░░░░░░░░   50% - Contributing more
-```
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- 💭 QUOTE -->
