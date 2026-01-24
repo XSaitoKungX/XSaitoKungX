@@ -1,266 +1,200 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎨 ANIMATED HEADER BANNER -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=XSaitoKungX&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Discord%20Bot%20Creator%20%7C%20Open%20Source%20Enthusiast&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=XSaitoKungX&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 TYPING ANIMATION & BADGES -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Learning+and+Building;TypeScript+%7C+React+%7C+Node.js)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Mark!;%F0%9F%9A%80+Building+Astra+Bot+%7C+40%2B+Servers;%F0%9F%92%BB+Next.js+%7C+React+%7C+TypeScript+%7C+Supabase" alt="Typing SVG" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/XSaitoKungX">
-    <img src="https://img.shields.io/github/followers/XSaitoKungX?label=Followers&logo=github&style=for-the-badge&color=8b5cf6&labelColor=1a1b27" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/XSaitoKungX?tab=repositories">
-    <img src="https://img.shields.io/github/stars/XSaitoKungX?label=Stars&logo=github&style=for-the-badge&color=8b5cf6&labelColor=1a1b27" alt="GitHub Stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=XSaitoKungX&style=for-the-badge&color=8b5cf6&labelColor=1a1b27&label=Profile+Views" alt="Profile Views"/>
-</p>
+[![GitHub](https://img.shields.io/github/followers/XSaitoKungX?label=Followers&style=for-the-badge&logo=github&color=8b5cf6&labelColor=0d1117)](https://github.com/XSaitoKungX)
+[![Profile Views](https://komarev.com/ghpvc/?username=XSaitoKungX&style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=Profile+Views)](https://github.com/XSaitoKungX)
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎮 LIVE DISCORD STATUS (Lanyard) -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+</div>
 
-<p align="center">
-  <a href="https://discord.com/users/848917797501141052">
-    <img src="https://lanyard.cnrad.dev/api/848917797501141052?showDisplayName=true&theme=dark&hideDiscrim=true" alt="Discord Presence"/>
-  </a>
-</p>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻 ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
+</div>
+
 ```typescript
-const mark = {
+const developer = {
   name: "Mark",
-  alias: "XSaitoKungX",
-  location: "Germany 🇩🇪",
-  role: "Full Stack Developer",
+  location: "Germany",
+  role: "Apprentice Developer",
   
-  currentFocus: [
-    "🤖 Astra Bot - Discord Bot with 40+ servers",
-    "🌐 Eziox - Your Personalized Bio Page",
-    "📚 Learning new technologies daily"
+  currentlyWorking: [
+    "Astra Bot - Discord bot project",
+    "Eziox - Personal bio page platform",
+    "Learning full-stack development"
   ],
   
-  techStack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend: ["Node.js", "Express", "Python"],
-    database: ["Supabase", "PostgreSQL", "MongoDB", "MySQL"],
-    tools: ["Git", "Docker", "Vercel", "VS Code"]
-  },
-  
-  funFact: "I code better with music 🎵"
+  learning: [
+    "TypeScript & JavaScript",
+    "React & Next.js",
+    "Backend development with Node.js",
+    "Database management"
+  ]
 };
 ```
 
-<br clear="both"/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 Astra Bot</h3>
-      <p align="center">
-        <a href="https://astra-bot.app" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-astra--bot.app-8b5cf6?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Servers-40+-22c55e?style=flat-square&logo=discord&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Status-Online-22c55e?style=flat-square"/>
-      </p>
-      <p align="center">
-        A powerful, feature-rich Discord bot built with modern technologies. Includes moderation, music, economy, and much more!
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase%20SQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Bio Page</h3>
-      <p align="center">
-        <a href="https://eziox.link/saito" target="_blank">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-https://eziox.link/saito-8b5cf6?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Version-2.0-8b5cf6?style=flat-square"/>
-      </p>
-      <p align="center">
-        Create your personalized bio page • Track analytics • Climb the leaderboard
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Bun.lockb-000000?style=flat-square&logo=bun&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind%20Config-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/shadcn%2Fschema.json-18181b?style=flat-square&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite%20Config-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Netlify%20Deploy-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/eslint.config.js-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
-        <img src="https://img.shields.io/badge/postcss.config.js-DD3A0A?style=flat-square&logo=postcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/tsconfig.app.json-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
+</div>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,tailwind,supabase,postgres,docker&theme=dark" />
 </p>
+
+<details>
+<summary><b>View Details</b></summary>
+<br/>
+
+**Frontend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite&theme=dark" />
+</p>
+
+**Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,supabase,postgres,redis&theme=dark" />
+</p>
+
+**Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,discord&theme=dark" />
+</p>
+
 </details>
 
-<details open>
-<summary><b>⚙️ Backend</b></summary>
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,laravel&theme=dark" />
-</p>
-</details>
 
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">Astra Bot</h3>
+
+<p align="center">Discord bot with moderation, music, and economy features.</p>
+
+<p align="center">
+  <a href="https://astra-bot.app">
+    <img src="https://img.shields.io/badge/Visit-astra--bot.app-8b5cf6?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,discord,supabase,redis&theme=dark" width="180"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">Eziox</h3>
+
+<p align="center">Platform for creating personal bio pages with analytics.</p>
+
+<p align="center">
+  <a href="https://eziox.link/saito">
+    <img src="https://img.shields.io/badge/Visit-eziox.link-8b5cf6?style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,netlify&theme=dark" width="180"/>
+</p>
+
+</td>
+</tr>
+</table>
+
 <br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,mysql,vercel,appwrite&theme=dark" />
-</p>
-</details>
 
-<details open>
-<summary><b>🔧 Tools & Others</b></summary>
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,discord,bots&theme=dark" />
-</p>
-</details>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> GitHub Stats
 
+</div>
+
 <p align="center">
-  <a href="https://github.com/XSaitoKungX">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img width="49%" src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=catppuccin-mocha&hide_border=true&locale=de" alt="GitHub Streak" />
-  </a>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XSaitoKungX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=XSaitoKungX&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/XSaitoKungX">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XSaitoKungX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSaitoKungX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true" alt="Activity Graph"/>
 </p>
-
-<p align="center">
-  <a href="https://github-trophies.vercel.app">
-    <img src="https://github-trophies.vercel.app/?username=XSaitoKungX" alt="XSaitoKungX trophies"/>
-  </a>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/XSaitoKungX">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=XSaitoKungX&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Activity Graph"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XSaitoKungX/XSaitoKungX/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XSaitoKungX/XSaitoKungX/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/XSaitoKungX/XSaitoKungX/output/github-snake-dark.svg" />
+  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/XSaitoKungX/XSaitoKungX/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌐 CONNECT WITH ME -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<br/><br/>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://eziox.link/saito">
-    <img src="https://img.shields.io/badge/Connect-https://eziox.link/saito-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://astra-bot.app">
-    <img src="https://img.shields.io/badge/Astra_Bot-astra--bot.app-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Learning & Listening
 
-<p align="center">
-  <a href="https://github.com/XSaitoKungX">
-    <img src="https://img.shields.io/badge/GitHub-XSaitoKungX-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.twitch.tv/xsaitokungx">
-    <img src="https://img.shields.io/badge/Twitch-xsaitokungx-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
-  </a>
-</p>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 💭 QUOTE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<table>
+<tr>
+<td width="50%" align="center">
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Quote"/>
-</p>
+<h4>Reading on daily.dev</h4>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎵 SPOTIFY (Optional - requires setup at https://github.com/kittinan/spotify-github-profile) -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<a href="https://app.daily.dev/xsaitokungx">
+  <img src="https://api.daily.dev/devcards/v2/2vaHzn2RzD06day2KXaeb.png?r=c7w&type=default" width="300" alt="XSaitoKungX's Dev Card"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xgcniqbid7yt4otq5q3gkm7iqi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
+</td>
+<td width="50%" align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 📅 LAST UPDATED -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<h4>Current Spotify vibes</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-January%202026-8b5cf6?style=flat-square"/>
-</p>
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xgcniqbid7yt4otq5q3gkm7iqi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" width="300"/>
+</a>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 FOOTER WAVE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+</td>
+</tr>
+</table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<br/>
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-eziox.link%2Fsaito-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://eziox.link/saito)
+[![GitHub](https://img.shields.io/badge/GitHub-XSaitoKungX-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/XSaitoKungX)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<sub>Thanks for visiting!</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
