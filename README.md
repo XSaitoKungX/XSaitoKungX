@@ -26,8 +26,8 @@ const developer = {
   role: "Apprentice Developer",
   
   currentlyWorking: [
-    "Astra Bot - Discord bot project",
-    "Eziox - Personal bio page platform",
+    "Astra Bot v3 - Discord bot project",
+    "Advanced Portfoloio - Personal portfolio page",
     "Learning full-stack development"
   ],
   
@@ -102,13 +102,13 @@ const developer = {
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">Eziox</h3>
+<h3 align="center">Portfolio</h3>
 
 <p align="center">Platform for creating personal bio pages with analytics.</p>
 
 <p align="center">
-  <a href="https://eziox.link/saito">
-    <img src="https://img.shields.io/badge/Visit-eziox.link-8b5cf6?style=for-the-badge"/>
+  <a href="https://xsaitox.dev/en">
+    <img src="https://img.shields.io/badge/Visit-xsaitox.dev/en-8b5cf6?style=for-the-badge"/>
   </a>
 </p>
 
@@ -180,7 +180,7 @@ const developer = {
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-eziox.link%2Fsaito-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://eziox.link/saito)
+[![Portfolio](https://img.shields.io/badge/Portfolio-xsaitox.dev/en%2Fsaito-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117)](https://xsaitox.dev/en)
 [![GitHub](https://img.shields.io/badge/GitHub-XSaitoKungX-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/XSaitoKungX)
 
 </div>
