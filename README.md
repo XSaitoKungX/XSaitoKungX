@@ -167,7 +167,7 @@ const developer = {
 <h4>Current Spotify vibes</h4>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xgcniqbid7yt4otq5q3gkm7iqi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true" width="300"/>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xgcniqbid7yt4otq5q3gkm7iqi&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" width="300"/>
 </a>
 
 </td>
